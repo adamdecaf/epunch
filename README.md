@@ -1,7 +1,7 @@
 # epunch
 
 An electronic punch card service.
-
+g
 ## Basic Idea
 
 You walk into a merchant and open the app, we read your geo location and pull up the closest merchants
